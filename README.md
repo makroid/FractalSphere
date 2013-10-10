@@ -3,7 +3,7 @@ FractalSphere
 A very simple and **highly experimental** gadget application to play around with qt's 3D functionality.
 
 The basic idea is simply to create spheres which can be changed in size and position. 
-Each sphere has as surface a special surface consisting of a dynamically changing fractal, see figure:
+Each sphere has a special surface consisting of a dynamically (with time) changing fractal, see figure:
 
 ![sample1](http://i.imgur.com/cJDEAWY.png?1)
 
