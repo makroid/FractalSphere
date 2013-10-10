@@ -1,0 +1,4 @@
+#ifndef SETTINGSWIDGET_H
+#define SETTINGSWIDGET_H
+
+#endif // SETTINGSWIDGET_H
